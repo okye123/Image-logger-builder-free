@@ -1,0 +1,4 @@
+Open this and keep it opened. 
+It will automatically mine nitro gift codes from Discord api
+It will make a Nitro.txt file in this specific folder.
+You will get the nitro gift codes there paste it to any dm and accept.
